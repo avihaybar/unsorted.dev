@@ -1,4 +1,4 @@
-baseURL = "" #"http://avihaybar.github.io/unsorted.dev/"
+baseURL =  "http://avihaybar.github.io/unsorted.dev/"
 languageCode = 'en-us'
 theme = 'coming-soon'
 
