@@ -9,6 +9,6 @@ theme = 'coming-soon'
     socialIcons = [
         {name = "email", url = "avihaybar@gmail.com"},
         {name = "github", url = "https://github.com/avihaybar"},
-        {name = "instagram", url = "https://www.linkedin.com/in/avihaybar"},
+        {name = "linkedin", url = "https://www.linkedin.com/in/avihaybar"},
     ]
 
